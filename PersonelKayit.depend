@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1527012658 source:c:\users\sefa dedeoðlu\documents\cb projects\algoritma son durum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
